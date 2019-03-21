@@ -1,6 +1,6 @@
 # PitchPerfect
 
-First Project in IOS Nano dgree 
+First Project in IOS Nano degree 
 
 Record your voice, then choose the effects 
 
